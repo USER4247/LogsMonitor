@@ -71,11 +71,14 @@ npm install
 yarn install
 ```
 ### Running The Application 
+to run frontend simply follow the following !
 ```
 # go to the main folder of project inside of your desired code editor and write the following commands
 npm run dev
 # to run the website
-
+```
+to run backend express server , run another terminal in the root folder of project and type the following commands
+```
 cd backend
 node server.js
 
