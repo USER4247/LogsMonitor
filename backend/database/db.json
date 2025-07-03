@@ -1,0 +1,49 @@
+[
+  {
+    "error": [
+      1
+    ],
+    "warn": [
+      2
+    ],
+    "info": [
+      3
+    ],
+    "debug": [],
+    "message": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "level": "error",
+    "message": "SOME ERROR OCCURED @!@!!!",
+    "resourceId": "123213",
+    "timestamp": "2025-07-03T20:25:00.000Z",
+    "traceId": "324324",
+    "spanId": "324324324",
+    "commit": "23515",
+    "metadata": {}
+  },
+  {
+    "level": "warn",
+    "message": "some warning message 111",
+    "resourceId": "dfsdf",
+    "timestamp": "2025-07-03T20:28:00.000Z",
+    "traceId": "qwetreqwrt",
+    "spanId": "3242",
+    "commit": "wer",
+    "metadata": {}
+  },
+  {
+    "level": "info",
+    "message": "message 1",
+    "resourceId": "123",
+    "timestamp": "2025-07-03T20:29:00.000Z",
+    "traceId": "123",
+    "spanId": "123",
+    "commit": "213",
+    "metadata": {}
+  }
+]
