@@ -65,14 +65,7 @@ Follow these steps to get the Log Monitor Demo up and running on your local mach
 git clone https://github.com/USER4247/LogsMonitor.git
 cd log-monitor-demo
 
-# Install backend dependencies
-cd backend # or wherever your Express.js app is located
-npm install
-# or
-yarn install
-
-# Install frontend dependencies
-cd ../frontend # or wherever your React app is located
+# Install dependencies
 npm install
 # or
 yarn install
