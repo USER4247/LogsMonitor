@@ -62,7 +62,7 @@ Follow these steps to get the Log Monitor Demo up and running on your local mach
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/USER4247/LogsMonitor.git
 cd log-monitor-demo
 
 # Install backend dependencies
